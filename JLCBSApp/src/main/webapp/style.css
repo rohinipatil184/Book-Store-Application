@@ -1,0 +1,14 @@
+@charset "UTF-8";
+h1{
+	background-color: #081b31;
+    color:rgb(0, 255, 255);
+    height : 5rem;
+    line-height: 5rem;
+    text-align: center;
+    text-size-adjust: 10rem;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-display: flex;
+    margin-top: 1rem;
+    border-style: solid;
+}
